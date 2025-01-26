@@ -24,6 +24,6 @@
   ],
   "url": "https://github.com/mccaffertyt/shadowdark-under-hilltop",
   "manifest": "https://raw.githubusercontent.com/mccaffertyt/shadowdark-under-hilltop/main/module.json",
-  "download": "https://github.com/mccaffertyt/shadowdark-under-hilltop-adventure-pf2e/raw/main/shadowdark-under-hilltop.zip",
+  "download": "https://github.com/mccaffertyt/shadowdark-under-hilltop/raw/main/shadowdark-under-hilltop.zip",
   "manifestPlusVersion": "1.2.0"
 }
